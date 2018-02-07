@@ -10,3 +10,6 @@ Training and Test data is separated in the ratio of 80 : 20 (Out of 1000 data po
 Linear regression is used to make the prediction. Matplotlib is used to see the plotting
 
 ![alt text](https://github.com/SectumPsempra/Linear-Regression-/blob/master/Figure_1.png?raw=true)
+
+
+After running two times this gave an accuracy score of 35 - 41 %, many improvements needs to be done, which will be incorporated shortly.
