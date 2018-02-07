@@ -1,0 +1,53 @@
+Hi All, Thank you for applying.
+
+For evaluation we asking candidates for small task based on their previous work/project.
+
+Our preference is use AWS platform. It make the evaluation easy. You may develop in local machine and later deploy it on AWS.  Deadline is 13-Feb.  Please send your accomplishment in word document over email/googledrive/github. Document should contain
+    - Your understanding of the problem
+   -  Input Data
+   -  Solution - Model
+   -   Test/Result/Flask
+
+We have assumed that you have hands-on experience with the subject and hence productivity will be high. We don't discourage to refer to your previous work or online resources as long as you know whats being used.
+
+We encourage delivery before EOD of  deadline date. Submission post this date, will be pick-up based on bandwidth.
+
+Problem/Task
+
+
+Predictive Model: Linear Regression and R ; pick anyone
+
+1) Use below candidates data
+    State, SchoolLocation, MotherTongue, Gender, ParentIncomePerAnnum, PercentInClass12, AvgNumberofHrsStudied
+
+to predict success-rate of a student to get admission into IITs.
+
+You can use any independent variables.
+
+You can create your own data for training and test.  Or customize it from Kaggle
+
+OR
+
+2) Use Below candidate data
+
+    State, CurrentCity, Gender, NoOfYeasExperience, ScoreInClass12, PercentageScoreInGraduation, TechSkills, OtherSkills
+
+to scoring and rank (predict best) candidates for a InternShip Job position. Use any independent variables from client_name, Jobtitle, JobLocation,  Job description, skillsNeeded
+
+You can create your own data for training and test.  Or customize it from Kaggle Job data.
+
+
+Setting up EC2
+1) Setting R in aws
+https://aws.amazon.com/blogs/big-data/running-r-on-aws/
+
+2) Setting up ML EC2
+Create small linux instance  @amazonaws.com
+login
+wget https://repo.continuum.io/archive/Anaconda2-4.1.1-Linux-x86_64.sh
+bash Anaconda2-4.1.1-Linux-x86_64.sh
+install OpenCV(optional)
+conda create -n tensorflow pip python=2.7
+source activate tensorflow
+reboot your instance
+pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-0.12.1-cp27-none-linux_x86_64.whl
