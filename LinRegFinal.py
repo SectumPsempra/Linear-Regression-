@@ -69,6 +69,6 @@ class PlotResult(LinearRegressionClass):
         plt.scatter(self.X_test, self.predictions)
         # plt.xticks(range(36, 361, 36))
         # plt.yticks(range(36, 361, 36))
-        plt.xlabel("True Values")
-        plt.ylabel("Predictions")
+        plt.xlabel("Number Of Hours")
+        plt.ylabel("Success in JEE")
         plt.show()
