@@ -45,24 +45,3 @@ class CreateDataSet:
         # Only uncomment to generate dataset
         dataframe.to_csv(self.file_name, sep=',')
         print "File generation successful, file %s is generated in your local directory" % self.file_name
-
-
-fileName = raw_input("Enter the name of the file with extension(.csv or any other): ")
-initialize = CreateDataSet(fileName)
-initialize.define_parameters()
-initialize.generate_dataset()
-
-"""
-import matplotlib.pyplot as plt
-
-# Plot the JEE_SCORE vs PERCENT_IN_12TH_CLASS
-#------------------------------------------------------------------------------------------
-# plt.scatter(JEE_SCORE, PERCENT_IN_12TH_CLASS)
-# plt.xlabel("JEE_SCORE")
-# plt.ylabel("range_per")
-# plt.xticks(range(36, 361, 36))
-# plt.yticks(range(10, 101, 10))
-# plt.show()
-#-------------------------------------------------------------------------------------------
-
-"""
