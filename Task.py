@@ -27,7 +27,8 @@ class CreateDataSet:
 
         self.PERCENT_IN_12TH_CLASS = np.random.randint(33, 100, size=1000)
         self.AVG_HRS_STUDIED = np.random.choice(range(4, 15), size=1000)
-        self.JEE_SCORE = np.zeros(1000)
+
+        self.JEE_SCORE = np.random.randint(361, size=1000)
 
     def define_parameters(self):
 
@@ -35,7 +36,10 @@ class CreateDataSet:
         self.MOTHER_TONGUE = [LANGUAGE[lang] for lang in self.MOTHER_TONGUE]
 
         self.JEE_SCORE = ((self.AVG_HRS_STUDIED * self.PERCENT_IN_12TH_CLASS) / (14.0 * 99.0)) * 100.0
-        self.JEE_SCORE *= 3.6  # Convert to (0-360) range.
+        self.JEE_SCORE *= 3.6  # Convert to (-20 - 360) range.
+        for val in range(len(self.JEE_SCORE)):
+            if (self.JEE_SCORE[val] < 40) and ((self.AVG_HRS_STUDIED[val] > 8) and (self.PERCENT_IN_12TH_CLASS[val] > 90)):
+                self.JEE_SCORE[val] += 40
 
     def generate_dataset(self):
         data = np.array(
@@ -45,3 +49,19 @@ class CreateDataSet:
         # Only uncomment to generate dataset
         dataframe.to_csv(self.file_name, sep=',')
         print "File generation successful, file %s is generated in your local directory" % self.file_name
+
+
+"""
+import matplotlib.pyplot as plt
+
+# Plot the JEE_SCORE vs PERCENT_IN_12TH_CLASS
+#------------------------------------------------------------------------------------------
+# plt.scatter(JEE_SCORE, PERCENT_IN_12TH_CLASS)
+# plt.xlabel("JEE_SCORE")
+# plt.ylabel("range_per")
+# plt.xticks(range(36, 361, 36))
+# plt.yticks(range(10, 101, 10))
+# plt.show()
+#-------------------------------------------------------------------------------------------
+
+"""
