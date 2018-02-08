@@ -20,8 +20,8 @@ class LinearRegressionClass:
         self.df = pd.read_csv(file_name, sep=',')
         self.JEE_SCORE = self.df['JEE_SCORE']
         self.AVG_HRS_STUDIED = self.df['AVG_HRS_STUDIED']
-        self.X_train, self.X_test, self.y_train, self.y_test = train_test_split(self.JEE_SCORE,
-                                                                                self.AVG_HRS_STUDIED,
+        self.X_train, self.X_test, self.y_train, self.y_test = train_test_split(self.AVG_HRS_STUDIED,
+                                                                                self.JEE_SCORE,
                                                                                 test_size=0.2)
         self.linearModel = linear_model.LinearRegression()
         self.model = self
@@ -51,8 +51,9 @@ class PlotResult(LinearRegressionClass):
         :var self.modelAccuracy: Accuracy of the predicted value to the test data
         """
         self.modelAccuracy, self.predictions = parent_instance.linear_regression()
-        self.y_test = parent_instance.y_test
-        print(self.predictions, self.y_test)
+        #self.y_test = parent_instance.y_test
+        self.X_test = parent_instance.X_test
+        print(self.predictions, self.X_test)
 
     def print_score(self):
         """
@@ -65,7 +66,9 @@ class PlotResult(LinearRegressionClass):
         :return: Plots the scatter chart of True value to predicted value, if True value if more
         than predicted value is also more in the chart.
         """
-        plt.scatter(self.y_test, self.predictions)
+        plt.scatter(self.X_test, self.predictions)
+        # plt.xticks(range(36, 361, 36))
+        # plt.yticks(range(36, 361, 36))
         plt.xlabel("True Values")
         plt.ylabel("Predictions")
         plt.show()
