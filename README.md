@@ -12,4 +12,13 @@ Linear regression is used to make the prediction. Matplotlib is used to see the 
 ![alt text](https://github.com/SectumPsempra/Linear-Regression-/blob/master/Figure_1.png?raw=true)
 
 
-After running two times this gave an accuracy score of 35 - 41 %, many improvements needs to be done, which will be incorporated shortly.
+This project is completely automated now and can be run independently by executing "Execute.py".
+
+Instructions for running the project - 
+
+1) Clone/Download the repository by clicking on the clone button.
+2) Run Execute.py
+3) Enter the filename you want to save data in with appropriate file extension(.csv preferably otherwise some changes need to be made)
+4) You can see the above figure in output.
+
+After running two times this gave an accuracy score of 35 - 42 %, little changes required now, will be done shortly.
