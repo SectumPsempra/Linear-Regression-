@@ -1,0 +1,1001 @@
+,GENDER,STATES,MOTHER_TONGUE,PARENTS_INCOME_PER_ANNUM,PERCENT_IN_12TH_CLASS,AVG_HRS_STUDIED,JEE_SCORE
+0,0,Tripura,Gujarati,2,75,4,77.9220779221
+1,1,Jharkhand,Gujarati,1,43,8,89.3506493506
+2,1,Maharashtra,Gujarati,1,89,12,277.402597403
+3,1,Karnataka,Hindi,1,74,13,249.87012987
+4,0,Odisha,Kannada,2,60,6,93.5064935065
+5,0,Himachal Pradesh,Tamilian,0,34,9,79.4805194805
+6,0,Goa,Marathi,1,77,7,140.0
+7,0,Bihar,Marathi,2,73,10,189.61038961
+8,0,Mizoram,Kannada,1,91,13,307.272727273
+9,1,Meghalaya,Marathi,1,78,10,202.597402597
+10,0,Tripura,Marathi,0,69,12,215.064935065
+11,1,Tripura,Tamilian,1,53,6,82.5974025974
+12,1,Andhra Pradesh,Marathi,2,94,6,146.493506494
+13,0,Jharkhand,Hindi,1,66,10,171.428571429
+14,0,Sikkim,Kannada,1,36,12,112.207792208
+15,1,Mizoram,Hindi,2,63,5,81.8181818182
+16,1,Assam,Marathi,0,96,8,199.480519481
+17,0,Manipur,Kannada,2,58,11,165.714285714
+18,1,Nagaland,Kannada,1,33,9,77.1428571429
+19,1,Rajasthan,Tamilian,0,78,6,121.558441558
+20,1,Tripura,Kannada,0,49,11,140.0
+21,0,Sikkim,Tamilian,2,59,6,91.9480519481
+22,1,Bihar,Gujarati,2,80,12,249.350649351
+23,1,Bihar,Tamilian,0,52,8,108.051948052
+24,1,Kerala,Hindi,0,57,11,162.857142857
+25,1,Bihar,Gujarati,1,81,10,210.38961039
+26,1,West Bengal,Gujarati,1,74,4,76.8831168831
+27,0,Punjab,Gujarati,1,80,9,187.012987013
+28,0,Gujarat,Tamilian,2,35,7,63.6363636364
+29,1,Telangana,Marathi,0,71,10,184.415584416
+30,0,Madhya Pradesh,Marathi,2,96,10,249.350649351
+31,1,Tripura,Marathi,2,84,8,174.545454545
+32,1,Arunachal Pradesh ,Tamilian,2,39,12,121.558441558
+33,0,Uttar Pradesh,Kannada,0,89,12,277.402597403
+34,1,Manipur,Gujarati,1,36,7,65.4545454545
+35,1,Sikkim,Hindi,2,85,7,154.545454545
+36,0,Assam,Kannada,2,59,6,91.9480519481
+37,0,Madhya Pradesh,Gujarati,0,87,5,112.987012987
+38,0,Delhi,Kannada,1,98,11,280.0
+39,1,Madhya Pradesh,Gujarati,2,99,5,128.571428571
+40,0,Punjab,Marathi,0,66,5,85.7142857143
+41,0,Tamil Nadu,Gujarati,0,55,14,200.0
+42,0,Haryana,Kannada,1,95,13,320.779220779
+43,0,Gujarat,Gujarati,2,51,10,132.467532468
+44,1,Meghalaya,Hindi,0,94,12,292.987012987
+45,0,Telangana,Gujarati,1,67,7,121.818181818
+46,1,Rajasthan,Tamilian,1,54,9,126.233766234
+47,1,Telangana,Tamilian,0,37,8,76.8831168831
+48,1,Delhi,Hindi,0,42,7,76.3636363636
+49,1,Sikkim,Marathi,0,35,6,54.5454545455
+50,0,Delhi,Gujarati,1,68,12,211.948051948
+51,1,West Bengal,Tamilian,2,92,4,95.5844155844
+52,1,Maharashtra,Hindi,2,97,6,151.168831169
+53,1,West Bengal,Kannada,2,97,9,226.753246753
+54,1,Haryana,Hindi,2,96,9,224.415584416
+55,0,Karnataka,Gujarati,2,90,7,163.636363636
+56,1,Rajasthan,Hindi,0,46,13,155.324675325
+57,0,Haryana,Gujarati,1,87,6,135.584415584
+58,0,Jharkhand,Tamilian,0,50,11,142.857142857
+59,0,Kerala,Tamilian,1,71,12,221.298701299
+60,0,Telangana,Tamilian,1,71,6,110.649350649
+61,1,Arunachal Pradesh ,Tamilian,1,97,12,302.337662338
+62,1,Kerala,Hindi,0,64,5,83.1168831169
+63,0,Haryana,Marathi,1,67,13,226.233766234
+64,1,Jharkhand,Marathi,2,34,11,97.1428571429
+65,0,Jammu and Kashmir,Marathi,0,82,6,127.792207792
+66,0,Madhya Pradesh,Marathi,0,63,4,65.4545454545
+67,0,Goa,Tamilian,0,33,11,94.2857142857
+68,0,Maharashtra,Marathi,2,98,14,356.363636364
+69,1,Chhattisgarh,Gujarati,2,87,6,135.584415584
+70,0,Kerala,Hindi,0,68,10,176.623376623
+71,0,Meghalaya,Tamilian,1,71,9,165.974025974
+72,1,Jammu and Kashmir,Marathi,1,83,6,129.350649351
+73,1,Jammu and Kashmir,Gujarati,0,45,7,81.8181818182
+74,1,Gujarat,Hindi,0,80,13,270.12987013
+75,0,Chhattisgarh,Gujarati,1,39,10,101.298701299
+76,1,Meghalaya,Marathi,2,89,4,92.4675324675
+77,1,Jammu and Kashmir,Hindi,1,65,10,168.831168831
+78,1,Tripura,Hindi,2,63,11,180.0
+79,1,Uttar Pradesh,Tamilian,1,92,11,262.857142857
+80,0,Bihar,Marathi,2,56,13,189.090909091
+81,0,Telangana,Kannada,1,76,9,177.662337662
+82,1,Mizoram,Kannada,2,62,8,128.831168831
+83,1,Telangana,Kannada,1,65,6,101.298701299
+84,0,Odisha,Marathi,0,94,4,97.6623376623
+85,0,Gujarat,Gujarati,2,46,9,107.532467532
+86,1,Chhattisgarh,Marathi,2,64,12,199.480519481
+87,0,Kerala,Gujarati,0,48,9,112.207792208
+88,1,Arunachal Pradesh ,Marathi,2,65,14,236.363636364
+89,0,Mizoram,Marathi,1,94,11,268.571428571
+90,1,Tamil Nadu,Kannada,1,86,5,111.688311688
+91,1,Andhra Pradesh,Hindi,0,45,14,163.636363636
+92,1,Tamil Nadu,Kannada,2,58,10,150.649350649
+93,0,Karnataka,Tamilian,2,61,13,205.974025974
+94,0,Telangana,Tamilian,2,80,5,103.896103896
+95,0,Goa,Tamilian,0,42,8,87.2727272727
+96,1,Tripura,Tamilian,1,73,12,227.532467532
+97,0,Arunachal Pradesh ,Tamilian,0,77,8,160.0
+98,0,Chhattisgarh,Gujarati,0,72,10,187.012987013
+99,1,Maharashtra,Tamilian,2,80,10,207.792207792
+100,1,Sikkim,Kannada,1,96,8,199.480519481
+101,1,Meghalaya,Tamilian,1,88,11,251.428571429
+102,0,Tamil Nadu,Tamilian,1,80,8,166.233766234
+103,1,Telangana,Tamilian,2,81,4,84.1558441558
+104,0,Chhattisgarh,Kannada,0,48,12,149.61038961
+105,0,Haryana,Marathi,0,98,13,330.909090909
+106,0,Kerala,Hindi,2,54,4,56.1038961039
+107,1,Tamil Nadu,Marathi,1,38,6,59.2207792208
+108,0,Gujarat,Hindi,0,62,6,96.6233766234
+109,0,Karnataka,Gujarati,0,72,13,243.116883117
+110,0,Jammu and Kashmir,Kannada,1,57,11,162.857142857
+111,0,Madhya Pradesh,Marathi,2,55,14,200.0
+112,1,Gujarat,Tamilian,0,89,12,277.402597403
+113,1,Jammu and Kashmir,Kannada,2,77,11,220.0
+114,0,Maharashtra,Hindi,2,53,6,82.5974025974
+115,1,Mizoram,Hindi,2,38,11,108.571428571
+116,0,Tamil Nadu,Tamilian,0,36,4,37.4025974026
+117,1,Mizoram,Gujarati,2,44,9,102.857142857
+118,0,Assam,Kannada,2,78,13,263.376623377
+119,1,Maharashtra,Marathi,1,97,6,151.168831169
+120,0,Chhattisgarh,Tamilian,2,61,13,205.974025974
+121,1,Delhi,Kannada,0,35,11,100.0
+122,0,Tamil Nadu,Gujarati,2,85,6,132.467532468
+123,0,Jammu and Kashmir,Kannada,1,72,10,187.012987013
+124,0,Maharashtra,Tamilian,0,44,10,114.285714286
+125,0,Jammu and Kashmir,Gujarati,2,39,4,40.5194805195
+126,1,Jammu and Kashmir,Tamilian,0,55,13,185.714285714
+127,1,Arunachal Pradesh ,Hindi,1,54,6,84.1558441558
+128,1,Nagaland,Tamilian,1,37,6,57.6623376623
+129,1,Delhi,Kannada,1,52,7,94.5454545455
+130,0,Arunachal Pradesh ,Hindi,0,94,5,122.077922078
+131,0,Chhattisgarh,Marathi,1,51,5,66.2337662338
+132,1,Jammu and Kashmir,Gujarati,1,62,10,161.038961039
+133,1,Andhra Pradesh,Hindi,2,52,11,148.571428571
+134,1,Jammu and Kashmir,Kannada,2,98,14,356.363636364
+135,1,Himachal Pradesh,Marathi,2,75,5,97.4025974026
+136,0,Mizoram,Kannada,0,81,10,210.38961039
+137,0,Nagaland,Gujarati,0,84,9,196.363636364
+138,0,Odisha,Tamilian,0,56,5,72.7272727273
+139,0,Maharashtra,Hindi,2,55,14,200.0
+140,1,Himachal Pradesh,Marathi,2,56,8,116.363636364
+141,0,Karnataka,Kannada,2,33,9,77.1428571429
+142,1,Meghalaya,Gujarati,2,38,8,78.961038961
+143,0,Andhra Pradesh,Gujarati,1,74,5,96.1038961039
+144,0,Rajasthan,Tamilian,2,41,9,95.8441558442
+145,0,Jammu and Kashmir,Tamilian,1,52,9,121.558441558
+146,0,Meghalaya,Gujarati,0,54,8,112.207792208
+147,1,Madhya Pradesh,Kannada,2,38,10,98.7012987013
+148,1,Telangana,Hindi,0,66,8,137.142857143
+149,0,Nagaland,Kannada,2,55,6,85.7142857143
+150,1,Madhya Pradesh,Gujarati,2,83,13,280.25974026
+151,1,Himachal Pradesh,Marathi,1,75,4,77.9220779221
+152,0,Nagaland,Marathi,0,35,6,54.5454545455
+153,1,Haryana,Tamilian,2,33,9,77.1428571429
+154,1,Maharashtra,Marathi,0,58,4,60.2597402597
+155,0,Himachal Pradesh,Marathi,0,60,9,140.25974026
+156,0,Delhi,Marathi,2,74,7,134.545454545
+157,1,Assam,Marathi,2,59,12,183.896103896
+158,0,Goa,Tamilian,0,96,9,224.415584416
+159,0,Manipur,Gujarati,2,67,11,191.428571429
+160,1,Maharashtra,Kannada,2,87,9,203.376623377
+161,1,Jammu and Kashmir,Hindi,0,59,8,122.597402597
+162,1,Arunachal Pradesh ,Kannada,2,65,11,185.714285714
+163,1,Jharkhand,Gujarati,0,99,9,231.428571429
+164,0,Tamil Nadu,Kannada,2,54,14,196.363636364
+165,0,Madhya Pradesh,Gujarati,2,94,4,97.6623376623
+166,0,Manipur,Hindi,0,72,9,168.311688312
+167,1,Manipur,Marathi,2,41,12,127.792207792
+168,1,Gujarat,Kannada,2,62,8,128.831168831
+169,0,Madhya Pradesh,Kannada,0,45,7,81.8181818182
+170,0,Punjab,Marathi,1,89,5,115.584415584
+171,1,Mizoram,Gujarati,2,40,5,51.9480519481
+172,0,Mizoram,Hindi,2,61,5,79.2207792208
+173,1,Chhattisgarh,Tamilian,2,53,14,192.727272727
+174,0,Punjab,Marathi,0,44,11,125.714285714
+175,1,Arunachal Pradesh ,Hindi,2,79,7,143.636363636
+176,0,Maharashtra,Gujarati,1,68,12,211.948051948
+177,1,Telangana,Tamilian,2,69,12,215.064935065
+178,1,Kerala,Marathi,2,85,5,110.38961039
+179,1,Odisha,Marathi,1,34,8,70.6493506494
+180,1,Gujarat,Marathi,1,83,9,194.025974026
+181,1,Bihar,Kannada,0,67,8,139.220779221
+182,1,Jharkhand,Tamilian,0,49,4,50.9090909091
+183,1,Bihar,Kannada,1,85,6,132.467532468
+184,1,Punjab,Gujarati,0,76,11,217.142857143
+185,0,Uttar Pradesh,Tamilian,2,97,7,176.363636364
+186,0,Jammu and Kashmir,Hindi,2,77,14,280.0
+187,0,Andhra Pradesh,Hindi,0,40,5,51.9480519481
+188,1,Chhattisgarh,Marathi,1,76,12,236.883116883
+189,1,West Bengal,Kannada,1,49,4,50.9090909091
+190,1,Uttar Pradesh,Gujarati,0,34,6,52.987012987
+191,0,Gujarat,Kannada,0,35,12,109.090909091
+192,1,Delhi,Kannada,2,42,8,87.2727272727
+193,0,Sikkim,Marathi,1,35,7,63.6363636364
+194,1,Nagaland,Hindi,2,55,14,200.0
+195,0,West Bengal,Marathi,2,65,8,135.064935065
+196,1,Tripura,Tamilian,2,78,13,263.376623377
+197,1,Assam,Tamilian,1,80,7,145.454545455
+198,1,Meghalaya,Gujarati,1,64,8,132.987012987
+199,1,Kerala,Hindi,0,49,10,127.272727273
+200,0,Mizoram,Marathi,2,60,10,155.844155844
+201,0,Manipur,Gujarati,0,75,8,155.844155844
+202,0,Delhi,Hindi,1,43,12,134.025974026
+203,1,Delhi,Hindi,2,64,4,66.4935064935
+204,1,Sikkim,Gujarati,2,65,13,219.480519481
+205,1,Jharkhand,Hindi,2,63,11,180.0
+206,0,Goa,Marathi,2,57,11,162.857142857
+207,0,Chhattisgarh,Tamilian,2,54,12,168.311688312
+208,0,Madhya Pradesh,Hindi,1,79,14,287.272727273
+209,0,Arunachal Pradesh ,Gujarati,2,89,12,277.402597403
+210,0,Kerala,Kannada,0,62,7,112.727272727
+211,0,Uttarakhand,Marathi,0,59,13,199.220779221
+212,1,Madhya Pradesh,Marathi,0,80,12,249.350649351
+213,1,Punjab,Gujarati,2,84,13,283.636363636
+214,0,Nagaland,Tamilian,1,43,13,145.194805195
+215,0,Maharashtra,Kannada,1,92,4,95.5844155844
+216,1,Nagaland,Kannada,0,40,5,51.9480519481
+217,0,Andhra Pradesh,Kannada,1,48,7,87.2727272727
+218,1,Gujarat,Kannada,2,72,6,112.207792208
+219,0,Tamil Nadu,Kannada,2,90,11,257.142857143
+220,1,Mizoram,Marathi,2,87,6,135.584415584
+221,1,Sikkim,Marathi,2,39,14,141.818181818
+222,1,Goa,Kannada,1,93,8,193.246753247
+223,0,Gujarat,Gujarati,0,51,4,52.987012987
+224,1,Haryana,Tamilian,1,72,14,261.818181818
+225,0,Meghalaya,Tamilian,0,33,11,94.2857142857
+226,0,Manipur,Gujarati,0,46,13,155.324675325
+227,1,Nagaland,Tamilian,0,60,12,187.012987013
+228,1,Uttar Pradesh,Tamilian,1,57,4,59.2207792208
+229,1,Delhi,Kannada,1,73,10,189.61038961
+230,0,Uttarakhand,Tamilian,0,54,10,140.25974026
+231,1,Mizoram,Tamilian,1,46,4,47.7922077922
+232,0,Delhi,Kannada,0,43,12,134.025974026
+233,0,Madhya Pradesh,Tamilian,1,39,12,121.558441558
+234,1,Madhya Pradesh,Kannada,0,52,8,108.051948052
+235,1,Delhi,Gujarati,1,43,9,100.519480519
+236,0,Goa,Gujarati,0,62,6,96.6233766234
+237,0,Uttar Pradesh,Kannada,0,59,13,199.220779221
+238,0,Assam,Kannada,2,84,14,305.454545455
+239,1,Uttar Pradesh,Tamilian,2,69,4,71.6883116883
+240,1,Tamil Nadu,Kannada,2,61,12,190.12987013
+241,0,Jharkhand,Tamilian,1,88,11,251.428571429
+242,1,Nagaland,Gujarati,2,91,12,283.636363636
+243,0,Jharkhand,Marathi,1,82,12,255.584415584
+244,1,Andhra Pradesh,Hindi,2,82,6,127.792207792
+245,0,Odisha,Hindi,0,99,10,257.142857143
+246,0,Mizoram,Hindi,2,67,5,87.012987013
+247,0,Telangana,Marathi,1,65,12,202.597402597
+248,0,Nagaland,Gujarati,2,60,4,62.3376623377
+249,0,Bihar,Tamilian,1,57,10,148.051948052
+250,1,Odisha,Hindi,2,91,11,260.0
+251,0,Jharkhand,Marathi,1,79,9,184.675324675
+252,1,Karnataka,Kannada,1,37,10,96.1038961039
+253,1,Manipur,Hindi,1,67,7,121.818181818
+254,0,West Bengal,Tamilian,1,46,5,59.7402597403
+255,1,Karnataka,Kannada,2,60,11,171.428571429
+256,1,Meghalaya,Kannada,1,63,10,163.636363636
+257,1,Tamil Nadu,Kannada,1,86,6,134.025974026
+258,1,Madhya Pradesh,Kannada,2,63,9,147.272727273
+259,1,Arunachal Pradesh ,Tamilian,0,49,9,114.545454545
+260,1,Jammu and Kashmir,Tamilian,0,54,8,112.207792208
+261,0,Andhra Pradesh,Tamilian,0,34,14,123.636363636
+262,1,Jammu and Kashmir,Kannada,2,39,13,131.688311688
+263,1,Goa,Gujarati,0,62,13,209.350649351
+264,0,Rajasthan,Tamilian,2,87,7,158.181818182
+265,1,Bihar,Tamilian,0,77,5,100.0
+266,1,Chhattisgarh,Hindi,2,36,13,121.558441558
+267,1,Punjab,Gujarati,0,53,6,82.5974025974
+268,1,Uttarakhand,Gujarati,1,48,4,49.8701298701
+269,0,Mizoram,Hindi,1,54,4,56.1038961039
+270,1,Goa,Kannada,1,49,13,165.454545455
+271,0,Sikkim,Hindi,2,99,13,334.285714286
+272,0,Meghalaya,Gujarati,1,71,12,221.298701299
+273,1,Tripura,Gujarati,0,45,8,93.5064935065
+274,1,Arunachal Pradesh ,Marathi,0,48,4,49.8701298701
+275,0,Meghalaya,Marathi,0,38,6,59.2207792208
+276,0,Sikkim,Hindi,2,99,10,257.142857143
+277,0,Haryana,Marathi,0,85,4,88.3116883117
+278,1,Tripura,Kannada,1,66,11,188.571428571
+279,1,Kerala,Hindi,1,67,6,104.415584416
+280,1,Haryana,Gujarati,1,38,10,98.7012987013
+281,0,Maharashtra,Kannada,1,35,4,36.3636363636
+282,0,Jharkhand,Tamilian,1,83,7,150.909090909
+283,1,Andhra Pradesh,Hindi,0,39,8,81.038961039
+284,1,West Bengal,Kannada,2,63,8,130.909090909
+285,0,Kerala,Gujarati,1,52,4,54.025974026
+286,0,Arunachal Pradesh ,Kannada,0,74,10,192.207792208
+287,1,Maharashtra,Gujarati,2,75,8,155.844155844
+288,1,Delhi,Hindi,0,54,8,112.207792208
+289,1,West Bengal,Kannada,1,56,6,87.2727272727
+290,1,Odisha,Gujarati,1,46,9,107.532467532
+291,1,Kerala,Kannada,1,88,13,297.142857143
+292,1,Madhya Pradesh,Hindi,2,89,7,161.818181818
+293,1,Uttar Pradesh,Kannada,1,60,14,218.181818182
+294,0,Odisha,Marathi,1,96,7,174.545454545
+295,0,Madhya Pradesh,Gujarati,1,70,10,181.818181818
+296,0,Goa,Tamilian,2,63,13,212.727272727
+297,0,Maharashtra,Hindi,0,64,14,232.727272727
+298,0,Manipur,Kannada,1,92,8,191.168831169
+299,1,Karnataka,Kannada,1,69,7,125.454545455
+300,0,Manipur,Tamilian,0,79,11,225.714285714
+301,1,Arunachal Pradesh ,Hindi,1,80,14,290.909090909
+302,0,Kerala,Tamilian,0,43,13,145.194805195
+303,0,Punjab,Gujarati,2,39,12,121.558441558
+304,1,Goa,Gujarati,0,53,13,178.961038961
+305,1,Arunachal Pradesh ,Hindi,1,99,8,205.714285714
+306,1,Jharkhand,Gujarati,0,69,7,125.454545455
+307,1,Arunachal Pradesh ,Tamilian,2,96,8,199.480519481
+308,0,Delhi,Tamilian,2,55,13,185.714285714
+309,1,Assam,Tamilian,2,58,12,180.779220779
+310,0,Haryana,Hindi,1,35,14,127.272727273
+311,0,Nagaland,Kannada,0,82,9,191.688311688
+312,0,Mizoram,Marathi,0,58,14,210.909090909
+313,0,Assam,Tamilian,1,74,4,76.8831168831
+314,1,Punjab,Gujarati,2,38,7,69.0909090909
+315,0,Delhi,Kannada,1,96,7,174.545454545
+316,0,Madhya Pradesh,Kannada,0,83,6,129.350649351
+317,0,Manipur,Gujarati,0,97,7,176.363636364
+318,0,Telangana,Kannada,1,69,11,197.142857143
+319,0,Odisha,Tamilian,0,89,4,92.4675324675
+320,0,Madhya Pradesh,Marathi,0,71,9,165.974025974
+321,1,Assam,Kannada,0,78,8,162.077922078
+322,1,Goa,Marathi,0,95,6,148.051948052
+323,0,Chhattisgarh,Hindi,1,35,5,45.4545454545
+324,0,Maharashtra,Tamilian,0,66,10,171.428571429
+325,0,Odisha,Hindi,0,89,7,161.818181818
+326,0,Manipur,Gujarati,2,88,9,205.714285714
+327,0,Uttar Pradesh,Marathi,0,50,10,129.87012987
+328,0,Sikkim,Hindi,1,35,10,90.9090909091
+329,1,Tripura,Tamilian,0,98,5,127.272727273
+330,0,Nagaland,Kannada,2,97,13,327.532467532
+331,1,West Bengal,Kannada,1,87,14,316.363636364
+332,0,Punjab,Marathi,0,82,14,298.181818182
+333,0,Himachal Pradesh,Tamilian,2,81,7,147.272727273
+334,0,Kerala,Gujarati,2,46,13,155.324675325
+335,1,Maharashtra,Tamilian,1,99,12,308.571428571
+336,0,Sikkim,Kannada,0,76,7,138.181818182
+337,1,Maharashtra,Hindi,2,36,4,37.4025974026
+338,0,Jammu and Kashmir,Kannada,1,54,9,126.233766234
+339,0,Telangana,Tamilian,0,62,14,225.454545455
+340,0,Nagaland,Gujarati,2,46,11,131.428571429
+341,1,Karnataka,Marathi,0,86,11,245.714285714
+342,1,Delhi,Tamilian,1,71,13,239.74025974
+343,1,Karnataka,Marathi,1,90,8,187.012987013
+344,1,Assam,Gujarati,2,44,12,137.142857143
+345,1,Meghalaya,Marathi,2,35,14,127.272727273
+346,1,Mizoram,Tamilian,0,55,6,85.7142857143
+347,0,Rajasthan,Tamilian,2,61,8,126.753246753
+348,1,Odisha,Tamilian,2,79,5,102.597402597
+349,0,Nagaland,Marathi,0,37,5,48.0519480519
+350,1,Rajasthan,Kannada,0,74,10,192.207792208
+351,0,Odisha,Gujarati,2,90,5,116.883116883
+352,0,Kerala,Hindi,2,97,11,277.142857143
+353,0,Arunachal Pradesh ,Hindi,0,69,13,232.987012987
+354,0,Uttarakhand,Tamilian,2,94,13,317.402597403
+355,1,Rajasthan,Gujarati,1,60,11,171.428571429
+356,0,Gujarat,Marathi,1,78,5,101.298701299
+357,0,Tripura,Tamilian,1,35,11,100.0
+358,1,Sikkim,Kannada,1,78,10,202.597402597
+359,0,Goa,Marathi,0,58,9,135.584415584
+360,1,Punjab,Hindi,2,81,4,84.1558441558
+361,1,Jammu and Kashmir,Kannada,0,74,7,134.545454545
+362,1,Himachal Pradesh,Hindi,2,87,12,271.168831169
+363,1,Delhi,Tamilian,2,55,8,114.285714286
+364,1,Himachal Pradesh,Tamilian,0,57,10,148.051948052
+365,0,Uttarakhand,Tamilian,0,37,5,48.0519480519
+366,1,Uttar Pradesh,Marathi,0,77,7,140.0
+367,1,Mizoram,Marathi,1,51,7,92.7272727273
+368,1,Sikkim,Tamilian,2,78,7,141.818181818
+369,0,Odisha,Marathi,0,73,7,132.727272727
+370,1,Maharashtra,Gujarati,2,83,14,301.818181818
+371,0,Delhi,Kannada,2,97,9,226.753246753
+372,1,Telangana,Gujarati,0,65,4,67.5324675325
+373,1,Goa,Marathi,0,51,8,105.974025974
+374,0,Himachal Pradesh,Gujarati,1,84,7,152.727272727
+375,0,Chhattisgarh,Hindi,1,55,10,142.857142857
+376,1,Tamil Nadu,Marathi,2,69,12,215.064935065
+377,1,Arunachal Pradesh ,Tamilian,0,43,6,67.012987013
+378,0,Madhya Pradesh,Gujarati,2,90,8,187.012987013
+379,0,Kerala,Marathi,2,62,12,193.246753247
+380,0,Gujarat,Kannada,1,99,9,231.428571429
+381,0,Chhattisgarh,Kannada,1,53,10,137.662337662
+382,1,Chhattisgarh,Hindi,2,75,14,272.727272727
+383,0,West Bengal,Marathi,2,45,14,163.636363636
+384,1,Odisha,Tamilian,1,40,14,145.454545455
+385,0,Goa,Tamilian,1,97,13,327.532467532
+386,0,Uttar Pradesh,Kannada,1,66,4,68.5714285714
+387,1,Jammu and Kashmir,Hindi,0,76,4,78.961038961
+388,0,Kerala,Tamilian,1,98,9,229.090909091
+389,0,Andhra Pradesh,Gujarati,0,75,8,155.844155844
+390,0,Nagaland,Marathi,0,87,8,180.779220779
+391,0,West Bengal,Hindi,0,64,12,199.480519481
+392,0,Punjab,Tamilian,0,99,4,102.857142857
+393,0,Nagaland,Gujarati,2,76,6,118.441558442
+394,1,Telangana,Gujarati,0,41,6,63.8961038961
+395,0,Tripura,Tamilian,2,35,5,45.4545454545
+396,0,Haryana,Hindi,1,67,9,156.623376623
+397,0,Arunachal Pradesh ,Marathi,2,35,10,90.9090909091
+398,0,Himachal Pradesh,Gujarati,1,95,4,98.7012987013
+399,0,Goa,Tamilian,0,41,10,106.493506494
+400,1,Uttar Pradesh,Gujarati,2,87,14,316.363636364
+401,0,Maharashtra,Marathi,1,51,11,145.714285714
+402,0,Madhya Pradesh,Tamilian,0,80,4,83.1168831169
+403,0,Meghalaya,Kannada,1,47,4,48.8311688312
+404,0,Telangana,Tamilian,2,65,8,135.064935065
+405,0,Himachal Pradesh,Hindi,1,88,7,160.0
+406,0,Odisha,Hindi,1,81,7,147.272727273
+407,1,Jammu and Kashmir,Marathi,2,94,9,219.74025974
+408,0,Andhra Pradesh,Gujarati,1,87,10,225.974025974
+409,1,Karnataka,Tamilian,2,86,6,134.025974026
+410,1,Haryana,Hindi,1,62,8,128.831168831
+411,0,Mizoram,Gujarati,0,81,9,189.350649351
+412,1,Uttar Pradesh,Hindi,0,35,4,36.3636363636
+413,1,Meghalaya,Gujarati,0,37,6,57.6623376623
+414,0,Madhya Pradesh,Tamilian,2,77,10,200.0
+415,1,Haryana,Gujarati,0,77,6,120.0
+416,1,Jammu and Kashmir,Tamilian,2,76,10,197.402597403
+417,0,Gujarat,Marathi,1,46,9,107.532467532
+418,0,West Bengal,Kannada,0,83,8,172.467532468
+419,1,Goa,Gujarati,1,63,12,196.363636364
+420,0,Rajasthan,Marathi,1,48,11,137.142857143
+421,0,Tamil Nadu,Gujarati,1,47,10,122.077922078
+422,1,Kerala,Kannada,1,76,12,236.883116883
+423,1,Meghalaya,Kannada,0,39,11,111.428571429
+424,1,Manipur,Kannada,2,46,9,107.532467532
+425,1,Chhattisgarh,Hindi,1,83,9,194.025974026
+426,1,Madhya Pradesh,Gujarati,0,98,12,305.454545455
+427,1,Rajasthan,Gujarati,2,47,9,109.87012987
+428,1,Maharashtra,Marathi,2,77,10,200.0
+429,1,Jharkhand,Gujarati,1,62,14,225.454545455
+430,1,Nagaland,Tamilian,1,75,13,253.246753247
+431,0,Madhya Pradesh,Gujarati,1,85,4,88.3116883117
+432,0,Chhattisgarh,Kannada,0,89,8,184.935064935
+433,0,Gujarat,Gujarati,1,74,13,249.87012987
+434,0,Goa,Marathi,1,59,6,91.9480519481
+435,0,Goa,Gujarati,0,50,4,51.9480519481
+436,0,Punjab,Gujarati,1,42,4,43.6363636364
+437,1,Assam,Kannada,0,79,7,143.636363636
+438,1,Jammu and Kashmir,Hindi,0,77,10,200.0
+439,1,Tripura,Kannada,0,62,13,209.350649351
+440,1,Tamil Nadu,Marathi,0,36,4,37.4025974026
+441,0,Andhra Pradesh,Tamilian,0,39,4,40.5194805195
+442,1,Jammu and Kashmir,Gujarati,2,47,4,48.8311688312
+443,0,Himachal Pradesh,Marathi,0,98,8,203.636363636
+444,0,Himachal Pradesh,Hindi,2,86,11,245.714285714
+445,1,Tripura,Gujarati,1,60,5,77.9220779221
+446,1,Maharashtra,Tamilian,1,62,9,144.935064935
+447,0,Odisha,Tamilian,0,73,12,227.532467532
+448,0,Manipur,Kannada,2,74,8,153.766233766
+449,0,Uttar Pradesh,Hindi,0,33,6,51.4285714286
+450,0,Arunachal Pradesh ,Hindi,0,57,6,88.8311688312
+451,0,Bihar,Tamilian,1,90,8,187.012987013
+452,0,Rajasthan,Tamilian,1,38,10,98.7012987013
+453,1,Odisha,Marathi,1,74,4,76.8831168831
+454,1,Goa,Kannada,1,45,10,116.883116883
+455,1,Meghalaya,Hindi,0,34,9,79.4805194805
+456,1,Chhattisgarh,Hindi,0,73,13,246.493506494
+457,1,Odisha,Gujarati,1,87,4,90.3896103896
+458,0,Maharashtra,Marathi,0,87,4,90.3896103896
+459,1,Maharashtra,Hindi,0,70,8,145.454545455
+460,0,Tamil Nadu,Tamilian,2,58,9,135.584415584
+461,1,Andhra Pradesh,Hindi,2,65,11,185.714285714
+462,0,Tripura,Kannada,1,43,9,100.519480519
+463,1,Delhi,Hindi,2,46,10,119.480519481
+464,0,Haryana,Marathi,2,82,6,127.792207792
+465,0,Maharashtra,Marathi,1,96,4,99.7402597403
+466,1,Odisha,Marathi,2,64,12,199.480519481
+467,0,Maharashtra,Gujarati,1,69,12,215.064935065
+468,0,Gujarat,Kannada,2,66,10,171.428571429
+469,1,Bihar,Hindi,0,55,8,114.285714286
+470,1,Bihar,Marathi,1,90,8,187.012987013
+471,1,Madhya Pradesh,Hindi,1,65,13,219.480519481
+472,0,Chhattisgarh,Kannada,1,55,9,128.571428571
+473,1,Odisha,Hindi,2,33,14,120.0
+474,1,Punjab,Gujarati,0,50,8,103.896103896
+475,0,Goa,Hindi,0,81,8,168.311688312
+476,0,Sikkim,Marathi,0,93,14,338.181818182
+477,1,Chhattisgarh,Tamilian,1,79,6,123.116883117
+478,0,Odisha,Hindi,2,99,14,360.0
+479,0,Kerala,Hindi,0,49,8,101.818181818
+480,0,Mizoram,Tamilian,0,42,10,109.090909091
+481,0,West Bengal,Hindi,1,59,11,168.571428571
+482,1,Meghalaya,Kannada,1,41,9,95.8441558442
+483,0,Nagaland,Hindi,2,82,11,234.285714286
+484,0,Madhya Pradesh,Hindi,2,82,4,85.1948051948
+485,0,Jammu and Kashmir,Gujarati,2,85,6,132.467532468
+486,0,Telangana,Kannada,1,67,8,139.220779221
+487,1,Bihar,Gujarati,2,76,4,78.961038961
+488,0,Sikkim,Kannada,1,48,10,124.675324675
+489,0,Maharashtra,Gujarati,1,83,13,280.25974026
+490,1,Uttar Pradesh,Hindi,2,56,12,174.545454545
+491,1,Chhattisgarh,Gujarati,1,53,13,178.961038961
+492,0,Punjab,Hindi,0,84,6,130.909090909
+493,1,Madhya Pradesh,Tamilian,0,62,12,193.246753247
+494,1,Odisha,Hindi,0,68,6,105.974025974
+495,1,Uttar Pradesh,Marathi,1,76,4,78.961038961
+496,0,Kerala,Gujarati,0,41,11,117.142857143
+497,0,Maharashtra,Kannada,2,54,5,70.1298701299
+498,0,Maharashtra,Gujarati,0,42,9,98.1818181818
+499,0,Mizoram,Marathi,2,61,12,190.12987013
+500,0,Nagaland,Gujarati,2,35,7,63.6363636364
+501,1,Manipur,Gujarati,1,75,5,97.4025974026
+502,1,Madhya Pradesh,Gujarati,1,50,6,77.9220779221
+503,0,Kerala,Marathi,0,53,12,165.194805195
+504,0,Delhi,Marathi,1,36,10,93.5064935065
+505,1,Bihar,Kannada,1,62,11,177.142857143
+506,1,Punjab,Hindi,0,50,12,155.844155844
+507,0,Kerala,Hindi,1,70,9,163.636363636
+508,1,Bihar,Hindi,1,73,11,208.571428571
+509,1,Meghalaya,Kannada,1,68,7,123.636363636
+510,0,Kerala,Kannada,0,77,6,120.0
+511,1,Bihar,Hindi,0,88,6,137.142857143
+512,1,Andhra Pradesh,Marathi,2,54,12,168.311688312
+513,1,Assam,Marathi,1,53,8,110.12987013
+514,0,Chhattisgarh,Marathi,1,57,6,88.8311688312
+515,1,Goa,Hindi,2,40,9,93.5064935065
+516,1,Goa,Marathi,2,82,9,191.688311688
+517,0,Nagaland,Marathi,1,45,10,116.883116883
+518,0,Uttar Pradesh,Tamilian,1,78,9,182.337662338
+519,0,Kerala,Gujarati,2,62,10,161.038961039
+520,1,Manipur,Tamilian,0,52,14,189.090909091
+521,0,Mizoram,Kannada,2,90,14,327.272727273
+522,0,Madhya Pradesh,Kannada,0,49,9,114.545454545
+523,1,Meghalaya,Kannada,2,43,7,78.1818181818
+524,0,Karnataka,Hindi,2,42,4,43.6363636364
+525,0,Mizoram,Tamilian,1,70,11,200.0
+526,0,Himachal Pradesh,Tamilian,1,57,13,192.467532468
+527,1,Goa,Kannada,1,48,9,112.207792208
+528,1,Gujarat,Kannada,2,83,14,301.818181818
+529,1,Nagaland,Tamilian,1,40,4,41.5584415584
+530,1,Uttar Pradesh,Hindi,1,51,5,66.2337662338
+531,0,Gujarat,Marathi,1,63,10,163.636363636
+532,1,Mizoram,Kannada,0,93,13,314.025974026
+533,1,Rajasthan,Marathi,1,45,8,93.5064935065
+534,0,Mizoram,Gujarati,1,51,14,185.454545455
+535,1,Delhi,Marathi,1,35,9,81.8181818182
+536,0,Rajasthan,Hindi,1,97,10,251.948051948
+537,0,West Bengal,Marathi,2,55,8,114.285714286
+538,0,Karnataka,Tamilian,2,51,6,79.4805194805
+539,0,Karnataka,Gujarati,1,63,9,147.272727273
+540,0,Arunachal Pradesh ,Tamilian,2,96,6,149.61038961
+541,1,Jharkhand,Tamilian,2,98,8,203.636363636
+542,1,Bihar,Tamilian,2,41,7,74.5454545455
+543,1,Telangana,Gujarati,1,37,11,105.714285714
+544,1,West Bengal,Hindi,2,56,6,87.2727272727
+545,1,Karnataka,Hindi,1,50,8,103.896103896
+546,1,Mizoram,Tamilian,0,88,5,114.285714286
+547,1,Gujarat,Gujarati,1,46,4,47.7922077922
+548,0,Sikkim,Gujarati,2,35,9,81.8181818182
+549,1,Haryana,Kannada,1,50,6,77.9220779221
+550,1,Punjab,Hindi,2,77,11,220.0
+551,1,Odisha,Tamilian,0,87,11,248.571428571
+552,1,Gujarat,Hindi,1,94,4,97.6623376623
+553,0,Tripura,Marathi,0,47,13,158.701298701
+554,1,Andhra Pradesh,Hindi,0,75,10,194.805194805
+555,0,Madhya Pradesh,Marathi,0,74,13,249.87012987
+556,1,Andhra Pradesh,Hindi,0,41,12,127.792207792
+557,1,West Bengal,Hindi,1,86,4,89.3506493506
+558,0,Nagaland,Tamilian,1,42,13,141.818181818
+559,0,Uttar Pradesh,Kannada,1,94,4,97.6623376623
+560,0,Nagaland,Kannada,1,55,9,128.571428571
+561,1,Gujarat,Hindi,0,88,11,251.428571429
+562,1,Goa,Tamilian,2,72,13,243.116883117
+563,0,Uttar Pradesh,Kannada,1,59,14,214.545454545
+564,1,Assam,Marathi,1,71,12,221.298701299
+565,0,Uttarakhand,Hindi,0,68,14,247.272727273
+566,1,Telangana,Kannada,1,80,4,83.1168831169
+567,0,Nagaland,Hindi,1,52,11,148.571428571
+568,1,Mizoram,Kannada,2,61,4,63.3766233766
+569,1,Himachal Pradesh,Tamilian,0,84,9,196.363636364
+570,1,Bihar,Hindi,1,69,12,215.064935065
+571,1,Karnataka,Marathi,2,87,6,135.584415584
+572,0,Gujarat,Tamilian,1,89,10,231.168831169
+573,1,Gujarat,Kannada,0,85,8,176.623376623
+574,0,Andhra Pradesh,Kannada,0,83,7,150.909090909
+575,1,Jharkhand,Tamilian,1,82,4,85.1948051948
+576,0,Mizoram,Kannada,1,85,6,132.467532468
+577,0,Punjab,Gujarati,1,90,12,280.519480519
+578,0,Manipur,Tamilian,1,97,9,226.753246753
+579,0,Goa,Marathi,0,43,10,111.688311688
+580,1,Goa,Marathi,2,94,5,122.077922078
+581,0,Kerala,Hindi,0,75,4,77.9220779221
+582,0,Assam,Hindi,2,74,7,134.545454545
+583,1,Rajasthan,Kannada,2,80,14,290.909090909
+584,1,Delhi,Hindi,2,73,4,75.8441558442
+585,1,Meghalaya,Gujarati,1,37,7,67.2727272727
+586,0,Andhra Pradesh,Kannada,1,76,11,217.142857143
+587,1,Odisha,Tamilian,0,82,6,127.792207792
+588,1,Himachal Pradesh,Marathi,2,49,7,89.0909090909
+589,0,Uttarakhand,Marathi,1,99,6,154.285714286
+590,0,Chhattisgarh,Tamilian,1,83,6,129.350649351
+591,1,Uttarakhand,Gujarati,2,58,13,195.844155844
+592,1,Chhattisgarh,Hindi,2,75,14,272.727272727
+593,0,Manipur,Tamilian,0,65,8,135.064935065
+594,0,Haryana,Hindi,0,51,10,132.467532468
+595,0,Madhya Pradesh,Gujarati,2,79,9,184.675324675
+596,1,Bihar,Gujarati,0,93,10,241.558441558
+597,0,Meghalaya,Tamilian,2,65,8,135.064935065
+598,0,Arunachal Pradesh ,Gujarati,2,72,4,74.8051948052
+599,1,Sikkim,Marathi,0,80,7,145.454545455
+600,0,Uttarakhand,Gujarati,2,58,11,165.714285714
+601,0,Arunachal Pradesh ,Gujarati,1,73,4,75.8441558442
+602,0,Karnataka,Tamilian,2,47,5,61.038961039
+603,1,Jharkhand,Gujarati,2,46,10,119.480519481
+604,0,Manipur,Tamilian,2,36,7,65.4545454545
+605,0,Delhi,Tamilian,2,61,12,190.12987013
+606,0,Punjab,Gujarati,1,87,4,90.3896103896
+607,1,Goa,Kannada,2,46,13,155.324675325
+608,0,Tripura,Tamilian,2,81,14,294.545454545
+609,1,Punjab,Gujarati,0,53,8,110.12987013
+610,0,Uttarakhand,Gujarati,1,34,13,114.805194805
+611,0,Mizoram,Gujarati,2,45,4,46.7532467532
+612,1,West Bengal,Marathi,0,50,7,90.9090909091
+613,1,Uttarakhand,Hindi,0,36,11,102.857142857
+614,0,Rajasthan,Kannada,1,51,8,105.974025974
+615,1,Mizoram,Hindi,2,43,7,78.1818181818
+616,1,Telangana,Gujarati,1,67,9,156.623376623
+617,0,Jammu and Kashmir,Tamilian,2,72,12,224.415584416
+618,1,Odisha,Gujarati,2,48,11,137.142857143
+619,1,Arunachal Pradesh ,Marathi,1,66,9,154.285714286
+620,1,Delhi,Marathi,2,85,9,198.701298701
+621,0,Goa,Tamilian,1,35,7,63.6363636364
+622,0,Gujarat,Tamilian,0,41,6,63.8961038961
+623,1,Uttarakhand,Gujarati,2,93,10,241.558441558
+624,0,Chhattisgarh,Hindi,0,46,12,143.376623377
+625,0,Karnataka,Gujarati,0,50,13,168.831168831
+626,0,Uttarakhand,Marathi,0,50,8,103.896103896
+627,1,Jharkhand,Kannada,2,89,11,254.285714286
+628,1,Delhi,Hindi,1,85,12,264.935064935
+629,0,Arunachal Pradesh ,Tamilian,2,85,9,198.701298701
+630,1,Tamil Nadu,Marathi,2,81,5,105.194805195
+631,1,Tamil Nadu,Tamilian,2,68,13,229.61038961
+632,0,Nagaland,Marathi,0,58,4,60.2597402597
+633,0,Gujarat,Marathi,1,41,14,149.090909091
+634,0,Kerala,Kannada,0,94,10,244.155844156
+635,1,Chhattisgarh,Tamilian,2,86,11,245.714285714
+636,0,Odisha,Tamilian,0,84,6,130.909090909
+637,1,Haryana,Kannada,0,35,5,45.4545454545
+638,0,Haryana,Hindi,2,82,13,276.883116883
+639,1,Meghalaya,Hindi,0,95,9,222.077922078
+640,1,Jammu and Kashmir,Tamilian,0,64,4,66.4935064935
+641,1,Goa,Tamilian,0,53,7,96.3636363636
+642,1,Delhi,Hindi,0,38,14,138.181818182
+643,0,West Bengal,Gujarati,2,96,12,299.220779221
+644,1,Assam,Hindi,0,75,6,116.883116883
+645,0,Maharashtra,Kannada,0,41,9,95.8441558442
+646,1,Manipur,Hindi,2,49,13,165.454545455
+647,1,Delhi,Hindi,1,42,9,98.1818181818
+648,0,Sikkim,Tamilian,0,73,11,208.571428571
+649,0,Andhra Pradesh,Hindi,0,37,5,48.0519480519
+650,1,Maharashtra,Tamilian,0,71,14,258.181818182
+651,0,Karnataka,Kannada,2,94,9,219.74025974
+652,0,Sikkim,Gujarati,1,73,13,246.493506494
+653,1,Tamil Nadu,Kannada,1,91,4,94.5454545455
+654,0,Delhi,Hindi,1,98,4,101.818181818
+655,0,Odisha,Tamilian,2,61,10,158.441558442
+656,1,Tripura,Marathi,1,40,11,114.285714286
+657,0,Chhattisgarh,Kannada,2,81,13,273.506493506
+658,0,Uttar Pradesh,Hindi,2,92,5,119.480519481
+659,0,Karnataka,Gujarati,0,60,12,187.012987013
+660,0,Delhi,Tamilian,0,40,10,103.896103896
+661,1,Uttarakhand,Kannada,1,80,13,270.12987013
+662,1,Uttar Pradesh,Hindi,0,52,11,148.571428571
+663,0,Punjab,Hindi,0,89,7,161.818181818
+664,1,Tripura,Gujarati,0,61,9,142.597402597
+665,1,Tamil Nadu,Tamilian,2,67,9,156.623376623
+666,1,Uttarakhand,Hindi,2,65,14,236.363636364
+667,1,Jammu and Kashmir,Hindi,2,54,8,112.207792208
+668,1,Arunachal Pradesh ,Hindi,0,55,10,142.857142857
+669,0,Meghalaya,Marathi,1,94,7,170.909090909
+670,0,West Bengal,Gujarati,1,85,4,88.3116883117
+671,0,Andhra Pradesh,Hindi,2,56,7,101.818181818
+672,1,Bihar,Kannada,2,84,14,305.454545455
+673,1,Karnataka,Kannada,2,80,13,270.12987013
+674,1,Himachal Pradesh,Tamilian,0,71,8,147.532467532
+675,0,Haryana,Gujarati,1,88,13,297.142857143
+676,1,Bihar,Gujarati,0,72,9,168.311688312
+677,0,Sikkim,Kannada,2,42,7,76.3636363636
+678,1,Madhya Pradesh,Marathi,0,79,8,164.155844156
+679,1,Madhya Pradesh,Kannada,0,34,6,52.987012987
+680,1,Telangana,Tamilian,1,33,14,120.0
+681,0,Tamil Nadu,Gujarati,2,97,13,327.532467532
+682,0,Andhra Pradesh,Marathi,0,88,8,182.857142857
+683,0,West Bengal,Gujarati,2,70,11,200.0
+684,0,Mizoram,Hindi,0,40,7,72.7272727273
+685,1,Chhattisgarh,Hindi,1,68,11,194.285714286
+686,0,Andhra Pradesh,Hindi,2,84,4,87.2727272727
+687,0,Meghalaya,Hindi,0,45,13,151.948051948
+688,1,Goa,Marathi,0,57,5,74.025974026
+689,1,Gujarat,Gujarati,1,91,7,165.454545455
+690,0,Goa,Tamilian,1,77,7,140.0
+691,1,Delhi,Marathi,0,74,13,249.87012987
+692,0,Jammu and Kashmir,Marathi,0,95,11,271.428571429
+693,1,Madhya Pradesh,Hindi,2,73,10,189.61038961
+694,1,Jharkhand,Marathi,2,97,10,251.948051948
+695,0,Gujarat,Kannada,0,51,11,145.714285714
+696,1,Karnataka,Gujarati,0,39,10,101.298701299
+697,0,Delhi,Gujarati,0,99,13,334.285714286
+698,0,Bihar,Kannada,1,79,11,225.714285714
+699,0,Karnataka,Marathi,0,39,5,50.6493506494
+700,0,Chhattisgarh,Gujarati,0,94,8,195.324675325
+701,1,Telangana,Kannada,0,51,10,132.467532468
+702,0,Mizoram,Hindi,1,74,8,153.766233766
+703,0,Andhra Pradesh,Hindi,0,88,6,137.142857143
+704,1,Andhra Pradesh,Marathi,2,56,6,87.2727272727
+705,1,Meghalaya,Marathi,2,52,12,162.077922078
+706,1,Meghalaya,Hindi,0,65,4,67.5324675325
+707,1,Delhi,Kannada,0,96,9,224.415584416
+708,1,West Bengal,Gujarati,0,84,10,218.181818182
+709,0,Uttar Pradesh,Hindi,2,63,10,163.636363636
+710,0,Mizoram,Marathi,1,36,6,56.1038961039
+711,1,Maharashtra,Marathi,2,44,6,68.5714285714
+712,1,Assam,Hindi,1,77,5,100.0
+713,1,Punjab,Marathi,1,56,12,174.545454545
+714,0,Jammu and Kashmir,Hindi,0,35,10,90.9090909091
+715,0,Madhya Pradesh,Tamilian,0,99,13,334.285714286
+716,0,West Bengal,Marathi,2,98,6,152.727272727
+717,0,Tripura,Hindi,2,45,4,46.7532467532
+718,0,Telangana,Marathi,2,51,11,145.714285714
+719,0,Assam,Hindi,2,89,12,277.402597403
+720,0,Mizoram,Gujarati,0,77,6,120.0
+721,0,Madhya Pradesh,Marathi,2,50,9,116.883116883
+722,1,West Bengal,Gujarati,2,67,4,69.6103896104
+723,1,Delhi,Kannada,0,49,8,101.818181818
+724,1,Delhi,Hindi,2,53,11,151.428571429
+725,1,Sikkim,Gujarati,0,38,9,88.8311688312
+726,0,Chhattisgarh,Gujarati,2,72,10,187.012987013
+727,0,Manipur,Marathi,0,61,10,158.441558442
+728,1,Tripura,Hindi,2,47,7,85.4545454545
+729,0,Gujarat,Tamilian,0,45,12,140.25974026
+730,1,Tripura,Gujarati,1,39,10,101.298701299
+731,1,Jammu and Kashmir,Hindi,0,56,5,72.7272727273
+732,1,Madhya Pradesh,Tamilian,1,55,10,142.857142857
+733,1,Karnataka,Kannada,0,75,11,214.285714286
+734,0,Manipur,Tamilian,1,54,8,112.207792208
+735,0,Uttar Pradesh,Hindi,2,63,10,163.636363636
+736,0,Andhra Pradesh,Marathi,1,79,11,225.714285714
+737,1,Jharkhand,Kannada,2,57,6,88.8311688312
+738,1,Sikkim,Tamilian,2,35,8,72.7272727273
+739,0,Madhya Pradesh,Tamilian,1,81,10,210.38961039
+740,1,Punjab,Hindi,0,49,4,50.9090909091
+741,1,Meghalaya,Gujarati,2,97,11,277.142857143
+742,1,Himachal Pradesh,Hindi,0,86,13,290.38961039
+743,0,Delhi,Gujarati,0,44,10,114.285714286
+744,1,Sikkim,Hindi,1,37,11,105.714285714
+745,1,West Bengal,Kannada,0,96,8,199.480519481
+746,0,Arunachal Pradesh ,Kannada,1,49,4,50.9090909091
+747,1,Madhya Pradesh,Gujarati,1,76,10,197.402597403
+748,1,Meghalaya,Marathi,1,89,7,161.818181818
+749,0,Andhra Pradesh,Gujarati,1,57,5,74.025974026
+750,1,Bihar,Tamilian,0,77,7,140.0
+751,1,Kerala,Kannada,1,35,9,81.8181818182
+752,1,Assam,Gujarati,2,65,7,118.181818182
+753,0,West Bengal,Hindi,2,75,5,97.4025974026
+754,0,Mizoram,Tamilian,0,50,10,129.87012987
+755,0,Maharashtra,Hindi,1,64,11,182.857142857
+756,0,Jammu and Kashmir,Marathi,0,71,9,165.974025974
+757,0,Delhi,Tamilian,2,85,8,176.623376623
+758,1,West Bengal,Hindi,2,67,4,69.6103896104
+759,0,Sikkim,Kannada,0,94,14,341.818181818
+760,0,Mizoram,Marathi,1,45,10,116.883116883
+761,1,Rajasthan,Marathi,1,42,12,130.909090909
+762,1,Sikkim,Kannada,0,78,7,141.818181818
+763,0,Tamil Nadu,Marathi,1,83,12,258.701298701
+764,0,Maharashtra,Tamilian,2,45,11,128.571428571
+765,1,Chhattisgarh,Kannada,2,82,4,85.1948051948
+766,0,Bihar,Hindi,0,37,9,86.4935064935
+767,0,Meghalaya,Gujarati,1,58,14,210.909090909
+768,1,Goa,Hindi,2,56,12,174.545454545
+769,0,Odisha,Gujarati,2,95,13,320.779220779
+770,1,Goa,Hindi,1,80,10,207.792207792
+771,1,Haryana,Tamilian,1,62,6,96.6233766234
+772,1,Chhattisgarh,Marathi,2,85,8,176.623376623
+773,0,Odisha,Marathi,2,97,4,100.779220779
+774,1,Himachal Pradesh,Hindi,1,99,11,282.857142857
+775,0,Uttarakhand,Tamilian,1,40,5,51.9480519481
+776,0,West Bengal,Gujarati,2,98,10,254.545454545
+777,0,Jammu and Kashmir,Kannada,2,74,12,230.649350649
+778,1,Delhi,Hindi,1,85,11,242.857142857
+779,0,Mizoram,Hindi,2,48,13,162.077922078
+780,0,Telangana,Marathi,0,97,8,201.558441558
+781,1,Jharkhand,Gujarati,2,66,12,205.714285714
+782,0,Delhi,Marathi,2,60,10,155.844155844
+783,0,Tripura,Marathi,0,61,7,110.909090909
+784,0,Telangana,Gujarati,2,33,14,120.0
+785,0,West Bengal,Gujarati,2,83,13,280.25974026
+786,1,Telangana,Kannada,0,53,10,137.662337662
+787,1,Maharashtra,Tamilian,1,98,13,330.909090909
+788,1,Goa,Tamilian,1,54,6,84.1558441558
+789,0,Mizoram,Gujarati,0,62,8,128.831168831
+790,1,Karnataka,Hindi,1,79,4,82.0779220779
+791,0,Andhra Pradesh,Kannada,2,44,8,91.4285714286
+792,1,Tripura,Hindi,2,41,12,127.792207792
+793,0,Arunachal Pradesh ,Kannada,1,51,13,172.207792208
+794,1,Odisha,Tamilian,2,83,14,301.818181818
+795,1,Sikkim,Hindi,2,83,7,150.909090909
+796,1,Nagaland,Tamilian,0,50,11,142.857142857
+797,0,Kerala,Gujarati,0,65,14,236.363636364
+798,1,Tripura,Kannada,0,82,10,212.987012987
+799,1,Jammu and Kashmir,Marathi,2,62,9,144.935064935
+800,0,Goa,Marathi,1,76,13,256.623376623
+801,0,Andhra Pradesh,Tamilian,2,78,10,202.597402597
+802,1,Bihar,Tamilian,1,73,11,208.571428571
+803,1,Delhi,Tamilian,1,51,8,105.974025974
+804,0,Mizoram,Tamilian,1,93,4,96.6233766234
+805,1,Assam,Hindi,2,99,10,257.142857143
+806,0,Madhya Pradesh,Marathi,1,79,11,225.714285714
+807,1,Nagaland,Kannada,2,81,5,105.194805195
+808,0,Rajasthan,Gujarati,1,39,6,60.7792207792
+809,1,Manipur,Gujarati,0,67,8,139.220779221
+810,0,Assam,Marathi,1,54,9,126.233766234
+811,0,Jharkhand,Marathi,2,55,9,128.571428571
+812,0,Rajasthan,Hindi,0,36,13,121.558441558
+813,1,Bihar,Marathi,0,96,11,274.285714286
+814,1,Goa,Hindi,2,52,13,175.584415584
+815,1,Manipur,Hindi,0,65,14,236.363636364
+816,0,Manipur,Marathi,2,82,9,191.688311688
+817,0,Nagaland,Gujarati,0,37,5,48.0519480519
+818,0,West Bengal,Gujarati,0,71,13,239.74025974
+819,1,Gujarat,Hindi,2,84,9,196.363636364
+820,0,Punjab,Marathi,0,75,7,136.363636364
+821,0,Odisha,Marathi,0,70,10,181.818181818
+822,1,Assam,Marathi,0,51,7,92.7272727273
+823,0,Assam,Gujarati,2,57,7,103.636363636
+824,0,Delhi,Marathi,0,82,10,212.987012987
+825,0,Karnataka,Tamilian,1,69,8,143.376623377
+826,0,Punjab,Marathi,1,80,9,187.012987013
+827,0,Uttarakhand,Gujarati,0,83,9,194.025974026
+828,0,Telangana,Marathi,1,77,8,160.0
+829,0,Chhattisgarh,Tamilian,0,81,4,84.1558441558
+830,0,Maharashtra,Kannada,0,51,9,119.220779221
+831,0,Goa,Gujarati,0,97,11,277.142857143
+832,1,Rajasthan,Gujarati,0,87,13,293.766233766
+833,1,Karnataka,Tamilian,0,94,13,317.402597403
+834,0,Goa,Gujarati,1,93,11,265.714285714
+835,0,Odisha,Tamilian,2,92,8,191.168831169
+836,1,Madhya Pradesh,Marathi,2,95,6,148.051948052
+837,1,Chhattisgarh,Gujarati,2,81,6,126.233766234
+838,0,Nagaland,Kannada,2,68,6,105.974025974
+839,0,Karnataka,Gujarati,2,65,14,236.363636364
+840,0,Nagaland,Tamilian,0,79,10,205.194805195
+841,1,Haryana,Tamilian,1,70,5,90.9090909091
+842,1,Mizoram,Gujarati,0,86,5,111.688311688
+843,1,Assam,Hindi,0,68,11,194.285714286
+844,1,West Bengal,Hindi,1,56,14,203.636363636
+845,1,Rajasthan,Kannada,0,40,8,83.1168831169
+846,0,Telangana,Kannada,2,51,12,158.961038961
+847,0,Kerala,Kannada,2,78,13,263.376623377
+848,0,Maharashtra,Marathi,2,81,10,210.38961039
+849,1,Arunachal Pradesh ,Hindi,0,39,5,50.6493506494
+850,1,Arunachal Pradesh ,Marathi,0,88,4,91.4285714286
+851,1,Gujarat,Marathi,2,71,8,147.532467532
+852,1,Tripura,Kannada,2,51,11,145.714285714
+853,1,Bihar,Kannada,0,75,4,77.9220779221
+854,0,Gujarat,Gujarati,0,69,12,215.064935065
+855,1,Andhra Pradesh,Gujarati,1,95,13,320.779220779
+856,0,West Bengal,Gujarati,1,80,11,228.571428571
+857,0,Nagaland,Marathi,1,36,7,65.4545454545
+858,0,Chhattisgarh,Marathi,1,46,8,95.5844155844
+859,1,Chhattisgarh,Gujarati,2,39,12,121.558441558
+860,0,Odisha,Kannada,1,70,14,254.545454545
+861,0,Bihar,Marathi,0,81,8,168.311688312
+862,0,Jammu and Kashmir,Hindi,0,79,4,82.0779220779
+863,1,Bihar,Hindi,1,43,11,122.857142857
+864,1,Andhra Pradesh,Tamilian,0,45,9,105.194805195
+865,0,Sikkim,Kannada,0,85,4,88.3116883117
+866,1,Sikkim,Hindi,2,36,4,37.4025974026
+867,0,Maharashtra,Marathi,1,48,7,87.2727272727
+868,0,Mizoram,Gujarati,0,56,11,160.0
+869,0,Gujarat,Hindi,1,98,5,127.272727273
+870,0,Delhi,Gujarati,0,43,4,44.6753246753
+871,0,Tripura,Hindi,0,71,7,129.090909091
+872,0,Mizoram,Marathi,2,83,8,172.467532468
+873,1,Meghalaya,Marathi,1,43,5,55.8441558442
+874,1,Gujarat,Tamilian,0,64,4,66.4935064935
+875,0,Madhya Pradesh,Tamilian,1,68,4,70.6493506494
+876,0,Jharkhand,Kannada,0,78,9,182.337662338
+877,0,Jammu and Kashmir,Kannada,2,69,9,161.298701299
+878,1,Madhya Pradesh,Gujarati,1,45,4,46.7532467532
+879,1,Karnataka,Hindi,2,53,7,96.3636363636
+880,1,Himachal Pradesh,Gujarati,0,80,6,124.675324675
+881,1,Jammu and Kashmir,Marathi,1,62,6,96.6233766234
+882,0,Tripura,Marathi,2,77,7,140.0
+883,1,Madhya Pradesh,Gujarati,0,95,7,172.727272727
+884,0,Uttar Pradesh,Gujarati,2,47,5,61.038961039
+885,0,Chhattisgarh,Gujarati,1,60,8,124.675324675
+886,0,Andhra Pradesh,Tamilian,2,69,14,250.909090909
+887,0,Tamil Nadu,Hindi,1,89,14,323.636363636
+888,1,Uttar Pradesh,Tamilian,1,85,4,88.3116883117
+889,0,Mizoram,Tamilian,1,90,14,327.272727273
+890,1,Delhi,Kannada,1,67,4,69.6103896104
+891,0,Odisha,Hindi,0,93,7,169.090909091
+892,1,Jammu and Kashmir,Marathi,2,38,6,59.2207792208
+893,0,Haryana,Marathi,0,47,6,73.2467532468
+894,0,Gujarat,Tamilian,2,35,7,63.6363636364
+895,1,Telangana,Marathi,1,51,8,105.974025974
+896,1,Uttarakhand,Hindi,1,52,13,175.584415584
+897,1,Delhi,Marathi,0,69,12,215.064935065
+898,1,Bihar,Marathi,2,74,14,269.090909091
+899,1,Kerala,Gujarati,1,93,4,96.6233766234
+900,0,Telangana,Kannada,1,74,10,192.207792208
+901,0,Odisha,Hindi,0,84,7,152.727272727
+902,0,Goa,Marathi,0,99,5,128.571428571
+903,0,Meghalaya,Marathi,0,61,9,142.597402597
+904,0,Gujarat,Tamilian,0,89,6,138.701298701
+905,1,Andhra Pradesh,Kannada,1,41,13,138.441558442
+906,1,Goa,Kannada,2,65,6,101.298701299
+907,0,Mizoram,Hindi,1,59,7,107.272727273
+908,1,Nagaland,Gujarati,0,48,13,162.077922078
+909,1,Tamil Nadu,Hindi,0,67,6,104.415584416
+910,1,Gujarat,Tamilian,0,89,7,161.818181818
+911,1,Karnataka,Marathi,0,54,10,140.25974026
+912,0,Tamil Nadu,Marathi,2,82,10,212.987012987
+913,0,Rajasthan,Gujarati,0,33,8,68.5714285714
+914,0,Telangana,Hindi,1,87,12,271.168831169
+915,1,Sikkim,Marathi,2,71,8,147.532467532
+916,1,Himachal Pradesh,Marathi,2,74,14,269.090909091
+917,0,Bihar,Tamilian,0,43,12,134.025974026
+918,0,Gujarat,Kannada,0,48,7,87.2727272727
+919,0,Arunachal Pradesh ,Kannada,2,64,9,149.61038961
+920,1,Assam,Tamilian,1,37,4,38.4415584416
+921,1,Sikkim,Tamilian,2,94,4,97.6623376623
+922,1,Madhya Pradesh,Marathi,1,72,11,205.714285714
+923,0,Manipur,Tamilian,1,61,8,126.753246753
+924,0,Maharashtra,Kannada,1,46,8,95.5844155844
+925,0,Tamil Nadu,Tamilian,2,49,5,63.6363636364
+926,0,Tamil Nadu,Gujarati,0,39,9,91.1688311688
+927,1,Telangana,Gujarati,1,92,4,95.5844155844
+928,0,Tamil Nadu,Hindi,0,92,6,143.376623377
+929,1,Arunachal Pradesh ,Gujarati,0,90,13,303.896103896
+930,1,Bihar,Marathi,0,41,8,85.1948051948
+931,1,Arunachal Pradesh ,Marathi,0,94,8,195.324675325
+932,0,Haryana,Hindi,0,54,4,56.1038961039
+933,0,Tripura,Hindi,2,37,13,124.935064935
+934,0,Odisha,Marathi,1,61,10,158.441558442
+935,0,Meghalaya,Gujarati,1,72,13,243.116883117
+936,1,Goa,Hindi,0,65,10,168.831168831
+937,0,Karnataka,Tamilian,1,68,7,123.636363636
+938,1,Nagaland,Marathi,2,99,7,180.0
+939,1,Kerala,Hindi,1,54,4,56.1038961039
+940,1,Mizoram,Hindi,0,34,8,70.6493506494
+941,1,Gujarat,Kannada,0,33,7,60.0
+942,0,Mizoram,Tamilian,0,63,13,212.727272727
+943,1,Goa,Gujarati,0,35,8,72.7272727273
+944,0,Kerala,Hindi,2,39,8,81.038961039
+945,1,Telangana,Tamilian,1,47,6,73.2467532468
+946,0,Sikkim,Hindi,2,63,14,229.090909091
+947,1,Tamil Nadu,Marathi,1,34,8,70.6493506494
+948,1,Madhya Pradesh,Tamilian,1,73,4,75.8441558442
+949,1,Tamil Nadu,Tamilian,2,98,13,330.909090909
+950,0,Uttar Pradesh,Marathi,2,39,5,50.6493506494
+951,1,Karnataka,Kannada,1,39,4,40.5194805195
+952,1,Karnataka,Marathi,2,70,9,163.636363636
+953,0,Jharkhand,Kannada,1,50,8,103.896103896
+954,0,Bihar,Gujarati,2,75,5,97.4025974026
+955,1,Madhya Pradesh,Kannada,2,79,13,266.753246753
+956,1,Rajasthan,Hindi,2,95,11,271.428571429
+957,1,Meghalaya,Hindi,0,66,7,120.0
+958,0,Sikkim,Tamilian,2,39,12,121.558441558
+959,0,Jharkhand,Hindi,2,90,6,140.25974026
+960,0,Arunachal Pradesh ,Kannada,0,45,6,70.1298701299
+961,0,Rajasthan,Gujarati,2,89,7,161.818181818
+962,1,Tamil Nadu,Kannada,1,78,5,101.298701299
+963,0,Tamil Nadu,Hindi,2,99,4,102.857142857
+964,1,Maharashtra,Marathi,0,87,7,158.181818182
+965,1,Assam,Hindi,1,42,10,109.090909091
+966,0,Chhattisgarh,Hindi,0,74,8,153.766233766
+967,0,Himachal Pradesh,Gujarati,2,49,5,63.6363636364
+968,0,Uttar Pradesh,Marathi,0,49,8,101.818181818
+969,1,West Bengal,Gujarati,2,72,14,261.818181818
+970,1,Delhi,Kannada,1,67,14,243.636363636
+971,0,Jammu and Kashmir,Gujarati,0,99,5,128.571428571
+972,0,Nagaland,Marathi,2,52,9,121.558441558
+973,0,Jammu and Kashmir,Marathi,0,84,8,174.545454545
+974,0,Haryana,Kannada,1,91,6,141.818181818
+975,1,Sikkim,Hindi,2,91,10,236.363636364
+976,0,Himachal Pradesh,Marathi,2,94,5,122.077922078
+977,1,Tripura,Tamilian,2,41,7,74.5454545455
+978,1,Andhra Pradesh,Kannada,1,65,11,185.714285714
+979,1,Telangana,Marathi,1,63,4,65.4545454545
+980,0,Himachal Pradesh,Kannada,2,44,6,68.5714285714
+981,1,Meghalaya,Hindi,2,72,10,187.012987013
+982,1,Bihar,Gujarati,0,40,9,93.5064935065
+983,1,Tamil Nadu,Marathi,0,70,4,72.7272727273
+984,0,Himachal Pradesh,Marathi,2,39,5,50.6493506494
+985,1,Karnataka,Gujarati,1,74,14,269.090909091
+986,1,Sikkim,Kannada,0,85,8,176.623376623
+987,1,Rajasthan,Marathi,1,66,10,171.428571429
+988,0,Himachal Pradesh,Gujarati,2,45,13,151.948051948
+989,0,Goa,Marathi,1,43,6,67.012987013
+990,1,Uttarakhand,Marathi,0,51,13,172.207792208
+991,0,Uttar Pradesh,Marathi,1,67,13,226.233766234
+992,1,Punjab,Gujarati,1,76,5,98.7012987013
+993,1,Kerala,Hindi,1,85,6,132.467532468
+994,0,Mizoram,Gujarati,1,61,5,79.2207792208
+995,1,Manipur,Marathi,2,75,12,233.766233766
+996,0,Jammu and Kashmir,Kannada,0,71,9,165.974025974
+997,0,Tamil Nadu,Tamilian,1,82,7,149.090909091
+998,0,Madhya Pradesh,Tamilian,2,39,13,131.688311688
+999,1,Andhra Pradesh,Gujarati,2,39,11,111.428571429
