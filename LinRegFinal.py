@@ -69,8 +69,3 @@ class PlotResult(LinearRegressionClass):
         plt.xlabel("True Values")
         plt.ylabel("Predictions")
         plt.show()
-
-
-linearRegInit = LinearRegressionClass('data_IIT.csv')
-PlotResult(linearRegInit).plot()
-PlotResult(linearRegInit).print_score()
