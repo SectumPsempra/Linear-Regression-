@@ -19,9 +19,9 @@ class LinearRegressionClass:
         """
         self.df = pd.read_csv(file_name, sep=',')
         self.JEE_SCORE = self.df['JEE_SCORE']
-        self.PERCENT_IN_12TH_CLASS = self.df['PERCENT_IN_12TH_CLASS']
+        self.AVG_HRS_STUDIED = self.df['AVG_HRS_STUDIED']
         self.X_train, self.X_test, self.y_train, self.y_test = train_test_split(self.JEE_SCORE,
-                                                                                self.PERCENT_IN_12TH_CLASS,
+                                                                                self.AVG_HRS_STUDIED,
                                                                                 test_size=0.2)
         self.linearModel = linear_model.LinearRegression()
         self.model = self
